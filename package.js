@@ -1,6 +1,6 @@
 Package.describe({
   name: 'ox2:qr',
-  version: '1.1.0',
+  version: '1.2.0',
   // Brief, one-line summary of the package.
   summary: 'TESTING_DO_NOT_USE',
   // URL to the Git repository containing the source code for this package.

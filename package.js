@@ -1,6 +1,6 @@
 Package.describe({
   name: 'ox2:qr',
-  version: '1.2.0',
+  version: '1.3.0',
   // Brief, one-line summary of the package.
   summary: 'TESTING_DO_NOT_USE',
   // URL to the Git repository containing the source code for this package.
@@ -23,7 +23,7 @@ Package.onUse(function(api) {
     ]);
   // 3rd party
   api.use([
-    'mquandalle:jade@0.4.1',
+    'mquandalle:jade@0.4.9',
     'ox2:qrjs@1.1.3_1'
     ]);
     api.addFiles('lib/ox2-qr.jade', C);
